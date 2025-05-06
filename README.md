@@ -28,7 +28,7 @@ I'm a **Software Engineer** who thrives at building **scalable backend systems**
 
 ## 🙋‍♀️ About Me
 
-I'm a **21-year-old software engineer** who loves clean code, great documentation, and teamwork. I've worked in **agritech**, **healthcare**, and **transportation** industries—building tools that make life easier.
+I'm a **software engineer** who loves clean code, great documentation, and teamwork. I've worked in **agritech**, **healthcare**, and **transportation** industries—building tools that make life easier.
 
 🧩 I also enjoy mentoring, reviewing code, and helping new devs get unstuck.
 
